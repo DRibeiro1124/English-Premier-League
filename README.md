@@ -1,0 +1,3 @@
+# English-Premier-League
+
+I'm creating a dynamic webpage about the English Premier League. I'm going to implement what I learn in Ruby on Rails backend to create some sort of database that will compile data from the 2018-19 season. Each team page will have current stats in which I'll be using Ruby on Rails to keep track. In each individual team page, I'm going to be calling an API (football-api.com) and the users will be able to pull data from past seasons as well other information on certain teams. If I'm able to get everything done correctly I will then try and use google map api to add location for each team as well.
